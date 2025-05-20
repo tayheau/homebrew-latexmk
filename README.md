@@ -10,6 +10,6 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "tayheau/latexmk"
-brew "<formula>"
+brew "latexmk"
 ```
 
